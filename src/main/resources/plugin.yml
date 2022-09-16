@@ -1,0 +1,11 @@
+name: BedFixer
+version: 1.1
+main: me.mattio12123.Main
+api-version: 1.19
+author: Mattio12123
+description: A simple Anti-Bed-Drop Plugin
+commands:
+  bedfixer:
+    aliases: bf
+    usage: /<command>
+    description: Main plugin command
